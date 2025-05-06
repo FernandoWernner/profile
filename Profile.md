@@ -28,6 +28,3 @@
 ![Fernando's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FernandoWernner&show_icons=true&theme=transparent&bg_color=000000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoWernner&layout=compact&bg_color=000000&border_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=FernandoWernner&repo=NOMEDOREPOSITORIO&bg_color=000000&border_color=30A3DC&icon_color=30A3DC&title_color=E94D5F&text_color=FFFFFF)](https://github.com/FernandoWernner/wsBackend-Fabrica25.1)
-
